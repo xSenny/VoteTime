@@ -1,0 +1,10 @@
+voted-already: '&bDeja ai votat pentru votul acesta.'
+dvoted: '&aAi votat pentru a deveni zi'
+nvoted: '&aAi votat pentru a deveni noapte'
+
+start: '&bVoteaza daca vrei sa devina noapte, sau daca vrei sa devina zi!'
+voted: '&a&l[Click aici pentru a vota pentru zi]'
+voten: '&c&l[Click aici pentru a vota pentru noapte]'
+
+resultsd: "&aAti votat pentru a fi noapte, {nvotes} &7(pentru noapte)&a vs {dvotes} &7 (pentru zi)"
+resultsn: "&aAti votat pentru a fi zi {dvotes} &7 (pentru zi) &avs {nvotes} &7(pentru noapte)"

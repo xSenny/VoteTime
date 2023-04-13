@@ -1,0 +1,9 @@
+name: VoteTime
+version: '${project.version}'
+main: me.xsenny_.votetime.VoteTime
+api-version: 1.18
+commands:
+  vday:
+    description: Vote for day
+  vnight:
+    description: Vote for night
